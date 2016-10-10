@@ -19,7 +19,7 @@
     "dataviz"
   ],
   "dependencies": {
-    "multi-chart": "PolymerEl/multi-chart#^0.5.0",
+    "multi-chart": "PolymerEl/multi-chart#^0.5.0"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
